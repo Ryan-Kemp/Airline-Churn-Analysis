@@ -1,6 +1,7 @@
 # Airline Customer Satisfaction Modeling & Strategic Insights
-##### Project Type: Predictive Analytics & Customer Experience StrategyRole Perspective: Chief Data Officer / Head of Analytics
-##### Primary Objective: Identify key drivers of airline customer satisfaction and translate model outputs into actionable business insights
+#### Project Type: Predictive Analytics & Customer Experience Strategy
+- Role Perspective: Chief Data Officer / Head of Analytics
+- Primary Objective: Identify key drivers of airline customer satisfaction and translate model outputs into actionable business insights
 ________________________________________
 ## Project Overview
 This project analyzes airline customer satisfaction data to understand which service attributes most strongly influence whether a passenger is satisfied or dissatisfied. Rather than focusing solely on predictive accuracy, the analysis emphasizes interpretability, stability, and business relevance.
@@ -59,11 +60,11 @@ ________________________________________
 ________________________________________
 ## Strategic Recommendations
 #### 1.	Prioritize Experience Investments
-Focus capital allocation on inflight entertainment quality and seat comfort improvements.
+- Focus capital allocation on inflight entertainment quality and seat comfort improvements.
 
 #### 2.	Reduce Digital Friction
-Simplify online booking and check-in workflows to improve first-touch impressions.
+- Simplify online booking and check-in workflows to improve first-touch impressions.
 
 #### 3.	Operationalize Predictive Models
-Deploy satisfaction risk scoring into customer engagement workflows to identify and retain at-risk passengers.
+- Deploy satisfaction risk scoring into customer engagement workflows to identify and retain at-risk passengers.
 
